@@ -1,3 +1,6 @@
+<!--- DO NOT MODIFY --->
+<!--- Keep everything below if you're joining the open project training  --->
+
 Welcome to the open project training! :sparkles: These exercises will help get your project ready for contributors at MozFest 2016 and set you up for a sustained contributor community afterwards. If you have any questions, feel free to reach out to @acabunoc or ask questions in our [chat room](https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects).
 
 ## Open Project Checklist :clipboard:
