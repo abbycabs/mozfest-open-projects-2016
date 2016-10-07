@@ -41,8 +41,27 @@ code {
 }
 
 #content {
-  padding-top:3em;
+  /*padding-top:3em;*/
   /*background-color: rgb(242, 242, 242);*/
+  padding-bottom:3em;
+}
+
+#content img {
+  max-width:100%;
+}
+
+#content h2 {
+  margin-top:2em;
+}
+
+footer {
+  background-color: rgb(242, 242, 242);
+  padding: 1em 0;
+}
+
+footer {
+  font-size:16px;
+  text-align: center;
 }
 
 strong {
