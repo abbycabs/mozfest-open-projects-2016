@@ -11,8 +11,11 @@ Does your MozFest session involve hands-on, project based learning? This trainin
 
 This issue is your personal checklist as you go through the training. You'll find links to exercises and resources that will help you make your open project contributor friendly. :sunglasses:
 
+You can also [watch this video](https://www.youtube.com/watch?v=4lu_t7sJyms) for an overview of the entire program, an introduction to GitHub, and setup instructions.
+
 ## Important Links
 
 * [MozFest Open Project Training Guide](https://acabunoc.github.io/mozfest-open-projects-2016/)
 * [MozFest Open Project Template](https://github.com/acabunoc/mozfest-repo-template)
 * [Chat Room](https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects)
+* [Video: MozFest Open Project Training Orientation](https://www.youtube.com/watch?v=4lu_t7sJyms)
