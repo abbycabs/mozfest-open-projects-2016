@@ -7,8 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   software, curriculum, or anything you can build together with a group.
 baseurl: "/mozfest-open-projects-2016" # the subpath of your site, e.g. /blog
 url: "https://acabunoc.github.io" # the base hostname & protocol for your site
-twitter_username: abbycabs
-github_username:  acabunoc
+github:
+  repo: "acabunoc/mozfest-open-projects-2016"
+  branch: "gh-pages"
 
 
 collections:

@@ -4,7 +4,7 @@ title: "Writing Contributing Guidelines"
 date: 2016-10-06 14:05:56
 ---
 
-*In this activity you will learn how to create and maintain a CONTRIBUTING.md for an open source project.*
+>*In this activity you will learn how to create and maintain a CONTRIBUTING.md for an open source project.*
 
 Contributor guidelines, which we’ll write in a file we’ll call CONTRIBUTING.md, are the nuts and bolts instructions on how to contribute to your project.
 
@@ -28,7 +28,6 @@ The following elements should appear in your CONTRIBUTING file. If you don’t k
 
 Here are some elements that are optional for your CONTRIBUTING.MD file. See if any of these make sense for your project.
 
-* **Templates**: You might want to link to templates, which contributors can copy and add context to; templates help guide contributors on what information to include, and how.
 * **Info on how to request an "enhancement"** - enhancements are features that contributors suggest for a project, but aren't necessarily bugs/problems with the existing work; there is a "label" for enhancements in Github's Issues so contributors can tag issues as "enhancement" -- not the same priority as a bug or current task, but important as the community helps guide the project’s design and evolution.  See Atom's example section.
 * **Style Guide / Coding conventions** - If your project is a coding project, it’s important to designate how the code should look. [See Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#suggesting-enhancements).
 * **Who is involved?** - [Open Government's CONTRIBUTING.md](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md). You might list the core contributors and their preferred methods of contact here, or link to a [humans.txt](http://humanstxt.org/).

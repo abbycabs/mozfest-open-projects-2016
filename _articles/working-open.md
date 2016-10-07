@@ -2,6 +2,7 @@
 layout: page
 title: "Working Open"
 date: 2016-10-06 14:05:56
+following: _articles/forking.md
 ---
 
 >*Public and participatory. This requires structuring efforts so that "outsiders" can meaningfully participate (and become "insiders" as appropriate). - [How to Work Open at Mozilla](https://wiki.mozilla.org/Working_open)*
@@ -18,8 +19,9 @@ By working open, we can often get far more done (and often done better) than we 
 
 Take a look at Mozilla's [Introduction to Open Leadership](https://mozilla.teachable.com/courses/mozilla-open-leadership-training-series/lectures/1380364) to learn more about Working Open and running an open project.
 
-### Further Reading
+#### Further Reading
 
-* test
-* test
+* [Working Open](https://wiki.mozilla.org/Working_open) - Mozilla Wiki
+* [How to Work Open](http://openmatt.org/2011/04/06/how-to-work-open/) - by [@OpenMatt](http://openmatt.org)
+* [Clips on Working Open](https://wiki.mozilla.org/Contribute/Videos#Berlin_Keynote) - Mitchell Baker
 
