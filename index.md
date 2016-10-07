@@ -29,3 +29,9 @@ This issue is your personal checklist as you go through the training. You'll fin
 <h4>Read next</h4>
 <p><a href="articles/working-open">Working Open</a></p>
 </div>
+
+---
+
+This guide is open source and available on GitHub.
+
+ <a class="btn btn-lg btn-default" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Improve this page</a>
