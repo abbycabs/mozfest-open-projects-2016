@@ -21,6 +21,7 @@ Take a look at Mozilla's [Introduction to Open Leadership](https://mozilla.teach
 
 #### Further Reading
 
+* [Introduction to Open Leadership](https://mozilla.teachable.com/courses/mozilla-open-leadership-training-series/lectures/1380364) - Open Leadership Training Series
 * [Working Open](https://wiki.mozilla.org/Working_open) - Mozilla Wiki
 * [How to Work Open](http://openmatt.org/2011/04/06/how-to-work-open/) - by [@OpenMatt](http://openmatt.org)
 * [Clips on Working Open](https://wiki.mozilla.org/Contribute/Videos#Berlin_Keynote) - Mitchell Baker
