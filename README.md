@@ -10,3 +10,9 @@ Does your MozFest session involve hands-on, project based learning? This trainin
 3. Click on **Submit new issue** and get started!
 
 This issue is your personal checklist as you go through the training. You'll find links to exercises and resources that will help you make your open project contributor friendly. :sunglasses:
+
+## Important Links
+
+* [MozFest Open Project Training Guide](https://acabunoc.github.io/mozfest-open-projects-2016/)
+* [MozFest Open Project Template](https://github.com/acabunoc/mozfest-repo-template)
+* [Chat Room](https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects)
