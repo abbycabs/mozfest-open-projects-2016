@@ -22,6 +22,6 @@ Take a look at [Wrangling Web Contributions](http://mozillascience.github.io/wor
 
 ---
 
-Once you have all these files in your repo, you can post your project to [Network Pulse](https://mzl.la/pulse) by [filling out this form](https://mzl.la/mozfest-pulse). @acabunoc will review and approve your post :balloon: :cake:
+Once you have all these files in your repo, you can post your project to [Network Pulse](https://mzl.la/pulse) by [filling out this form](https://mzl.la/mozfest-pulse). [@acabunoc](http://github.com/acabunoc) will review and approve your post.
 
 ---
