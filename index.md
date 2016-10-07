@@ -24,6 +24,9 @@ We’ll go over the basics of open leadership and running a collaborative projec
 
 This issue is your personal checklist as you go through the training. You'll find links to exercises and resources that will help you make your open project contributor friendly.
 
+#### Video: MozFest Open Project Training Orientation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4lu_t7sJyms" frameborder="0" allowfullscreen></iframe>
+
 #### Important Links
 
 * [MozFest Open Project Training Guide](https://acabunoc.github.io/mozfest-open-projects-2016/)
