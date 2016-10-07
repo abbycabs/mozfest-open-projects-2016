@@ -22,6 +22,6 @@ Take a look at [Wrangling Web Contributions](http://mozillascience.github.io/wor
 
 ---
 
-Once you have all these files in your repo, you can post your project to [Network Pulse](https://mzl.la/pulse) by [filling out this form](https://mzl.la/mozfest-pulse). Make sure you've [created and updated](https://github.com/acabunoc/mozfest-open-projects-2016/issues/new) your issue. [@acabunoc](http://github.com/acabunoc) will review and approve your post.
+Once you have all these files in your repo and [you've created a few issues](http://mozillascience.github.io/working-open-workshop/roadmapping/), you can post your project to [Network Pulse](https://mzl.la/pulse) by [filling out this form](https://mzl.la/mozfest-pulse). Make sure you've [created and updated](https://github.com/acabunoc/mozfest-open-projects-2016/issues/new) your issue. [@acabunoc](http://github.com/acabunoc) will review and approve your post.
 
 ---
