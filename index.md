@@ -23,7 +23,7 @@ We’ll go over the basics of open leadership and running a collaborative projec
 3. Click on **Submit new issue** and get started! The issue will provide links and exercises to walk you through this training program.
 
 ---
-
-#### Read next:
-
-[Working Open](articles/working-open)
+<div class="color-box">
+<h4>Read next</h4>
+<p><a href="articles/working-open">Working Open</a></p>
+</div>

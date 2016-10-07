@@ -13,10 +13,11 @@ layout: default
 
 {% if page.following %}
  {% assign next = site.articles | where: "path", page.following | first %}
-<hr />
-<h4>Read next:</h4>
+<div class="color-box">
+<h4>Read next</h4>
 <p><a  href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a></p>
+</div>
+<br />
 {% endif %}
 
-<hr />
  <a class="btn btn-lg btn-default" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Improve this page</a>
