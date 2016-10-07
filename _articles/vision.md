@@ -2,7 +2,7 @@
 layout: page
 title: "Writing your Project Vision"
 date: 2016-10-06 14:05:56
-following: _articles/contributing.md
+following: _articles/files.md
 ---
 
 > *Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format.*

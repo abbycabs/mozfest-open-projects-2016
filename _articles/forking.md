@@ -25,7 +25,7 @@ You'll see something like this:
 
 You should now have your own version of the templates in your account. You should be able to find it at `https://github.com/[YOUR GITHUB USERNAME]/mozfest-repo-template`.
 
-#### 2. Change the name of your fork
+#### 2. Update your settings
 
 To use this repository for your own project, it should be named properly!
 
@@ -37,7 +37,7 @@ Enter your new repository name.
 
 ![screen shot 2016-10-07 at 01 17 20](https://cloud.githubusercontent.com/assets/617994/19179483/da329400-8c2b-11e6-8875-05904de26f79.png)
 
-Enable issues
+While you're in settings, enable issues. Issues are vital for discussion and reporting around your project.
 
 ![screen shot 2016-10-07 at 01 24 01](https://cloud.githubusercontent.com/assets/8975501/19179563/cbd6bba6-8c2c-11e6-8f8f-b74ddbb88f5e.png)
 
