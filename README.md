@@ -9,4 +9,4 @@ Does your MozFest session involve hands-on, project based learning? This trainin
 
 3. Click on **Submit new issue** and get started!
 
-The issue is your personal checklist as you go through the training. You'll find links to exercises and resources that will help you make your open project contributor friendly. :sunglasses:
+This issue is your personal checklist as you go through the training. You'll find links to exercises and resources that will help you make your open project contributor friendly. :sunglasses:
