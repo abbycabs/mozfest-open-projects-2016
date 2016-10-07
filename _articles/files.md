@@ -19,3 +19,9 @@ Make sure you link to the [Mozilla Community Participation Guidelines](https://w
 ### CONTRIBUTING.md
 
 Take a look at [Wrangling Web Contributions](http://mozillascience.github.io/working-open-workshop/contributing/) to walk you through writing a good contributing guidelines. This file should be titled CONTRIBUTING.md and placed in the root directory of your project.
+
+---
+
+Once you have all these files in your repo, you can post your project to [Network Pulse](https://mzl.la/pulse) by [filling out this form](https://mzl.la/mozfest-pulse). @acabunoc will review and approve your post :balloon: :cake:
+
+---
