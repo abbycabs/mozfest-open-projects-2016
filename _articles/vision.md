@@ -12,6 +12,7 @@ Take a few minutes to state your vision for your project and community going for
 
 #### 1. Answer the following questions
 These questions will help you craft a vision or mission statement.
+
   * <span style="color:red">Who you’re working with, or hope to work with</span>
   * <span style="color:green">What you’re doing</span>
   * <span style="color:purple">Who you’re doing it for, your audience (may be same as b)</span>
