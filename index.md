@@ -30,13 +30,11 @@ This issue is your personal checklist as you go through the training. You'll fin
 * [MozFest Open Project Template](https://github.com/acabunoc/mozfest-repo-template)
 * [Chat Room](https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects)
 
----
 <div class="color-box">
 <h4>Read next</h4>
 <p><a href="articles/working-open">Working Open</a></p>
 </div>
 
----
 
 This guide is open source and available on GitHub.
 
