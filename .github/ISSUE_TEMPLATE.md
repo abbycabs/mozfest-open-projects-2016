@@ -13,6 +13,7 @@ Before we start, take some time to read about Open Leadership and the benefits o
 Your project must complete the following to be a featured on [Network Pulse](http://mzl.la/pulse) at MozFest 2016. As you complete each exercise, check off the box and comment with a link to your completed resource. This [template repository](https://github.com/acabunoc/mozfest-repo-template) is here to help you if you get stuck!
 
 - [ ] GitHub repository for your project. [Step-by-step instructions for using the templates](https://acabunoc.github.io/mozfest-open-projects-2016/articles/forking/).
+  - Add a comment to this issue with a link to this GitHub repository.
 - These three files should live your root directory
   - [ ] [README.md](http://mozillascience.github.io/working-open-workshop/writing_readme/)
     - [ ] [Write your project vision](https://acabunoc.github.io/mozfest-open-projects-2016/articles/vision/)
