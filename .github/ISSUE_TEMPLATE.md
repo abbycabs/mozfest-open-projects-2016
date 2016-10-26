@@ -24,7 +24,7 @@ Your project must complete the following to be a featured on [Network Pulse](htt
 - [ ] Break down tasks into issues and milestones. See this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to get started.
 
 
-## Get Featued on Network Pulse :tada:
+## Get Featured on Network Pulse :tada:
 
 Once all of the above is complete,
 - [ ] post to [Network Pulse](https://mzl.la/pulse) by [filling out this form](https://mzl.la/mozfest-pulse). @acabunoc will review this issue and approve your post :balloon: :cake:
