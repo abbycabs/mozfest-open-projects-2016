@@ -7,7 +7,7 @@ following: _articles/working-open
 ## MozFest Open Projects
 
 
-> *Lessons and exercises in this manual are adapted from Mozilla's [Open Leadership Training Series](https://mozilla.teachable.com/p/mozilla-open-leadership-training-series). Enroll in the course to get a full introduction to Open Leadership.*
+> *Lessons and exercises in this manual are adapted from Mozilla's [Open Leadership Training Series](http://mzl.la/open-leadership). Enroll in the course to get a full introduction to Open Leadership.*
 
 
 Does your MozFest session involve hands-on, project based learning? This training is for anyone running an open project at MozFest. This can be software, curriculum, or anything you can build together with a group.
