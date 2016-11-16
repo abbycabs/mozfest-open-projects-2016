@@ -8,6 +8,7 @@ Now that you've setup your project in that way that encourages new contritutors,
 brought your project to MozFest and engaged new contributors, it's time to work together on your awesome project!
 
 In this section we'll talk about
+
 1. Event follow-up & documentation
 2. Collaborating online
 3. Maintaining your project
