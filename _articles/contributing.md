@@ -41,4 +41,4 @@ Now that you’ve reviewed what goes into the CONTRIBUTING file and given some t
 * [Github's Guidelines for setting up CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Guidelines for non-code contributions to open source projects](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)
 * [Contributing Guides: A Template](https://github.com/nayafia/contributing-template)
-* [Building a Community of Contributor](https://mozilla.teachable.com/courses/mozilla-open-leadership-training-series/lectures/1397277) - Open Leadership Training Series
+* [Building a Community of Contributors](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/) - Open Leadership Training Series

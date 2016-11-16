@@ -60,5 +60,5 @@ Now you have templates and a way to edit them! Keep reading to see how you can m
 #### Further Reading
 
 * [Forking](https://guides.github.com/activities/forking/) - GitHub Guides
-* [Get your project online](https://mozilla.teachable.com/courses/mozilla-open-leadership-training-series/lectures/1526442) - Open Leadership Training Series
-* [Collaborate with GitHub](https://mozilla.teachable.com/courses/mozilla-open-leadership-training-series/lectures/1537432) - Open Leadership Training Series
+* [Get your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/) - Open Leadership Training Series
+* [Collaborate with GitHub](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) - Open Leadership Training Series

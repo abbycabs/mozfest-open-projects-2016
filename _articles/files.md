@@ -2,6 +2,7 @@
 layout: page
 title: "LICENSE, README, CONTRIBUTING"
 date: 2016-10-06 14:05:56
+following: _articles/maintenance.md
 ---
 
 These are the three files you should have in the root directory your repository.
