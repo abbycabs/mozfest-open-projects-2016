@@ -9,9 +9,9 @@ brought your project to MozFest and engaged new contributors, it's time to work 
 
 In this section we'll talk about
 
-1. Event follow-up & documentation
-2. Collaborating online
-3. Maintaining your project
+1. [Event follow-up & documentation](https://acabunoc.github.io/mozfest-open-projects-2016/articles/maintenance/#event-follow-up--documentation)
+2. [Collaborating online](https://acabunoc.github.io/mozfest-open-projects-2016/articles/maintenance/#collaborating-online)
+3. [Maintaining your project](https://acabunoc.github.io/mozfest-open-projects-2016/articles/maintenance/#maintaining-your-project)
 
 ### Event follow-up & documentation
 
@@ -33,3 +33,5 @@ We cover these issues in [Meaningful Participation](https://mozilla.github.io/op
 ---
 
 Congrats, you're running an Open Project! Thank you for all your hard work. You're helping us work towards a healthy internet by working openly.
+
+If you're interested in the full version of this training, consider applying for our next round of the [Open Leadership Training Series](http://mzl.la/open-leadership).
